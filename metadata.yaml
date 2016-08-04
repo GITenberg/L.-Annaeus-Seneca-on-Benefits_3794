@@ -1,0 +1,37 @@
+_repo: L.-Annaeus-Seneca-on-Benefits_3794
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Stewart, Aubrey
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '1309'
+    url: http://www.gutenberg.org/2009/agents/1309
+creator:
+  author:
+    agent_name: Seneca, Lucius Annaeus
+    aliases:
+    - Seneca, Annaeus
+    - Seneca, L. A. (Lucius Annaeus)
+    deathdate: 65
+    gutenberg_agent_id: '1308'
+    url: http://www.gutenberg.org/2009/agents/1308
+    wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcsh 'Essays'
+- !lcsh 'Benevolence'
+- !lcc 'PA'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: L. Annaeus Seneca on Benefits
+url: http://www.gutenberg.org/ebooks/3794
